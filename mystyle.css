@@ -1,0 +1,27 @@
+#name {
+    background-color:rgb(233, 233, 233);
+    border-radius: 1%;   
+}
+
+.name1 {
+    text-align: center;
+}
+.picture {
+    background-color: #fff;
+    text-align: center;
+}
+
+.history1 {
+    margin: 0 auto;
+
+}
+ul {
+    line-height: 30px;
+}
+li {
+    padding: 10px;
+    font-size: 18px;
+}
+h5 {
+    color: rgb(99, 99, 99);
+}
